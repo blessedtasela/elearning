@@ -1,23 +1,16 @@
-🚀 **E-Learning Platform: Project Overview** 📚
+# E-Learning Platform
 
-Welcome to our E-Learning Platform! 🎓 This project is a comprehensive online learning solution designed to make education accessible, interactive, and efficient. Built with user-friendly features, dynamic content delivery, and seamless collaboration, our platform empowers learners and educators alike.
+A PHP e-learning web application for a school: courses, departments, teachers, students, and parents, with registration, applications, and course material.
 
-**Key Features:**
-- **User-Friendly Interface:** Intuitive design for a seamless learning experience.
-- **Interactive Learning Modules:** Engaging content with multimedia elements.
-- **Collaborative Tools:** Foster interaction between students and instructors.
-- **Responsive Design:** Accessible from any device, anytime, anywhere.
+Built solo by Blessed Tasela. This was my entry for SUPMTI's programming competition in July 2022, and it won: an HP laptop and a 40 percent tuition scholarship (21,000 MAD).
 
-**Tech Stack:**
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP
-- **Database:** MySQL
-- **Hosting:** XAMPP - Localhost
+## Stack
 
-**Getting Started:**
+HTML · CSS · JavaScript · PHP · MySQL
+
+## Run it
+
 1. Clone the repository.
-2. Install dependencies.
-3. Set up the database.
-4. Launch the application.
-
-Happy Learning! 🚀📖
+2. Run it under XAMPP (Apache + MySQL).
+3. Set up the database connection in `connectelearning.php`.
+4. Open it in the browser.
